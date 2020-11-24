@@ -4,6 +4,7 @@
     * https://github.com/h5bp/Front-end-Developer-Interview-Questions
     * https://github.com/MaximAbramchuck/awesome-interview-questions
     * https://github.com/lydiahallie/javascript-questions
+    * https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
     * https://github.com/viraptor/reverse-interview
     * https://github.com/JaeYeopHan/Interview_Question_for_Beginner
     * https://github.com/gyoogle/tech-interview-for-developer
