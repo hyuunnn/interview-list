@@ -17,6 +17,7 @@
     * https://github.com/NESOY/Back-end-Developer-Interview-Questions
     * https://github.com/sudheerj/vuejs-interview-questions-korean
     * https://github.com/devetude/Java-Interview-QnA
+    * https://github.com/oaksong/developers-retrospective
 
 * Job
     * https://github.com/jojoldu/junior-recruit-scheduler
