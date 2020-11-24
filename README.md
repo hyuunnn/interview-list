@@ -21,6 +21,8 @@
 
 * Job
     * https://github.com/jojoldu/junior-recruit-scheduler
+    * https://github.com/sesang06/awesome-alternative-military-service
+    * https://github.com/krta2/awesome-nonsan
     * https://github.com/paralax/awesome-cybersecurity-internships
     * https://github.com/milooy/remote-or-flexible-work-company-in-korea
     * https://github.com/simnalamburt/snucse
