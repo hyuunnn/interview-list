@@ -1,0 +1,27 @@
+* Interview
+    * https://github.com/jwasham/coding-interview-university
+    * https://github.com/kdn251/interviews
+    * https://github.com/h5bp/Front-end-Developer-Interview-Questions
+    * https://github.com/MaximAbramchuck/awesome-interview-questions
+    * https://github.com/lydiahallie/javascript-questions
+    * https://github.com/viraptor/reverse-interview
+    * https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+    * https://github.com/gyoogle/tech-interview-for-developer
+    * https://github.com/WeareSoft/tech-interview
+    * https://github.com/leehosung/awesome-devteam
+    * https://github.com/llSourcell/Programming_Interview_Study_Plan
+    * https://github.com/GimunLee/tech-refrigerator
+    * https://github.com/EBvi/dev-matrix
+    * https://github.com/security-prince/Application-Security-Engineer-Interview-Questions
+    * https://github.com/hg-pyun/Front-end-Developer-Interview-Questions
+    * https://github.com/paralax/awesome-cybersecurity-internships
+    * https://github.com/NESOY/Back-end-Developer-Interview-Questions
+    * https://github.com/sudheerj/vuejs-interview-questions-korean
+    * https://github.com/devetude/Java-Interview-QnA
+
+* Job
+    * https://github.com/jojoldu/junior-recruit-scheduler
+    * https://github.com/paralax/awesome-cybersecurity-internships
+    * https://github.com/milooy/remote-or-flexible-work-company-in-korea
+    * https://github.com/simnalamburt/snucse
+    * https://github.com/benjioh5/CS-Univ-Wiki
