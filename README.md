@@ -14,7 +14,6 @@
     * https://github.com/EBvi/dev-matrix
     * https://github.com/security-prince/Application-Security-Engineer-Interview-Questions
     * https://github.com/hg-pyun/Front-end-Developer-Interview-Questions
-    * https://github.com/paralax/awesome-cybersecurity-internships
     * https://github.com/NESOY/Back-end-Developer-Interview-Questions
     * https://github.com/sudheerj/vuejs-interview-questions-korean
     * https://github.com/devetude/Java-Interview-QnA
