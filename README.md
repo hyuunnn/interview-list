@@ -19,6 +19,8 @@
     * https://github.com/sudheerj/vuejs-interview-questions-korean
     * https://github.com/devetude/Java-Interview-QnA
     * https://github.com/oaksong/developers-retrospective
+    * https://github.com/trimstray/test-your-sysadmin-skills
+    * https://github.com/learning-zone/javascript-interview-questions
 
 * Job
     * https://github.com/jojoldu/junior-recruit-scheduler
