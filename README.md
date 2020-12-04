@@ -21,6 +21,7 @@
     * https://github.com/oaksong/developers-retrospective
     * https://github.com/trimstray/test-your-sysadmin-skills
     * https://github.com/learning-zone/javascript-interview-questions
+    * https://github.com/zzsza/Datascience-Interview-Questions
 
 * Job
     * https://github.com/jojoldu/junior-recruit-scheduler
