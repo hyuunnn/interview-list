@@ -1,6 +1,7 @@
 * Interview
     * https://github.com/jwasham/coding-interview-university
     * https://github.com/kdn251/interviews
+    * https://github.com/Olshansk/interview
     * https://github.com/h5bp/Front-end-Developer-Interview-Questions
     * https://github.com/MaximAbramchuck/awesome-interview-questions
     * https://github.com/lydiahallie/javascript-questions
@@ -22,6 +23,9 @@
     * https://github.com/trimstray/test-your-sysadmin-skills
     * https://github.com/learning-zone/javascript-interview-questions
     * https://github.com/zzsza/Datascience-Interview-Questions
+    * https://github.com/veeral-patel/how-to-secure-anything
+    * https://yangshun.github.io/tech-interview-handbook/ - https://github.com/yangshun/tech-interview-handbook
+    * https://yangshun.github.io/front-end-interview-handbook/ - https://github.com/yangshun/front-end-interview-handbook
 
 * Job
     * https://github.com/jojoldu/junior-recruit-scheduler
