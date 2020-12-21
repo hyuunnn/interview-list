@@ -35,3 +35,4 @@
     * https://github.com/milooy/remote-or-flexible-work-company-in-korea
     * https://github.com/simnalamburt/snucse
     * https://github.com/benjioh5/CS-Univ-Wiki
+    * https://github.com/posquit0/awesome-engineering-team-principles
